@@ -1,1 +1,0 @@
-[K]0;vagrant@ubuntu-bionic: ~/workspace/adding-upvagrant@ubuntu-bionic:~/workspace/adding-up$ [K]0;vagrant@ubuntu-bionic: ~/workspace/adding-upvagrant@ubuntu-bionic:~/workspace/adding-up$ git add .
